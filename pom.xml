@@ -38,7 +38,7 @@
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>fastjson</artifactId>
-                <version>1.2.47</version>
+                <version>1.2.83</version>
             </dependency>
             <!-- 子 pom 不可以继承，由于定义了optional标签，且其值为true -->
             <dependency>
